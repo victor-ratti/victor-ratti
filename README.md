@@ -39,4 +39,9 @@ Passionate about entrepreneurship, and always curious about where technology mee
 
 ### Let's talk
 
-Got a process worth automating, or an AI idea worth shipping? → [wesype.com](https://www.wesype.com/)
+Got a process worth automating, or an AI idea worth shipping? Let's connect.
+
+<p>
+  <a href="https://www.linkedin.com/in/victor-ratti-b44545210"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.wesype.com/"><img src="https://img.shields.io/badge/Wesype-24292F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Wesype" /></a>
+</p>
